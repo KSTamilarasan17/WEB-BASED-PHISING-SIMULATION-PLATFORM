@@ -121,7 +121,7 @@ Used only in controlled academic environments
 
 Clone the repository
 ```
-git clone https://github.com/your-username/phishing-simulation-platform.git
+git clone https://github.com/KSTamilarasan17/phishing-simulation-platform.git
 ```
 
 Move project to server directory
